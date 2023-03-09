@@ -1,4 +1,4 @@
-#A program to display the calender of a particular month
+#A program to display the calendar of a particular month
 
 #importing the calendar module
 import calendar
@@ -7,4 +7,4 @@ import calendar
 yy= int(input("Enter the Year: "))
 mm=int(input("Enter the Month: "))
 
-print(calendar.month(yy,mm))#print the calender of month entered
+print(calendar.month(yy,mm))#print the calendar of month entered
